@@ -1,0 +1,30 @@
+<html>
+	<head>
+	 <title>EXERC3 - Listas Intercaladas.</title>
+	</head>
+
+<body>
+ <p><font face="Verdana"><font size="5"><font color="FF0099">Principais pontos turísticos.</font></font></font></p>
+ <p>
+	<ol>
+	<li><b>Porto Alegre</b>
+		<ul>
+		<li><font face="calibri"><font size="4">Casa de Cultura Mário Quitana
+		<li>Jardim Botânico
+		<li>Parque Maurício Sirotsky Sobrinho
+		<li>Lago Guaíba</font>
+		</ul>
+	<li><b>Manaus</b>
+		<ul>
+		<li><font face="calibri"><font size="4">Encontro das Águas
+		<li>Palácio Rio Negro
+		<li>Centro Cultural dos Povos da Amazônia
+		<li>Teatro Amazonas</font>
+		</ul>
+	</ol>
+ </p>
+<p>Independente da cidade escolhida, você terá opções maravilhosas para curtir suas férias.</p>
+
+</body>
+
+</html>
