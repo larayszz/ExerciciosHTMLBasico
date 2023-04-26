@@ -1,0 +1,51 @@
+<html>
+	<head>
+	 <title>EXERC6 - Combinando tags.</title>
+	</head>
+
+<body>
+
+	<p>Para saber mais informações sobre o curso de HTML Básico, clique na informação
+desejada.</p>
+	<a href="#Categoria do Curso"><font color="black">Categoria</a></font><br>
+	<a href="#Carga horária"><font color="blue">Carga horária</a></font><br>
+	<a href="#Descrição do curso"><font color="orange">Descrição do curso</a></font><br>
+	<a href="#Estrutura do Curso"><font color="dark green">Estrutura do curso</a></font><br>
+	<a href="#Pré-requisitos"><font color="brown">Pré-requisitos</a></font><br>
+
+	<p><font color="FF0000">HTML - BÁSICO</p>
+	<a name="Categoria do Curso"></font>
+	<h2><font size="3">Desenvolvimento de aplicativos</font></h2>
+	</a>
+	<p><font color="FF0000">Carga Horária</p>
+	<a name="Carga Horária"></font>
+	<h2><font size="3">11 horas</font></h2>
+	</a>
+	<p><font color="FF0000">Descrição do Curso</p>
+	<a name="Descrição do Curso"></font>
+	<h2><font size="3">Este curso apresenta conceitos básicos de web e mostra as partes e funções das <i>tags</i>
+em um documento HTML. Ensina, também, a formatar uma página, inserir imagens e muito mais!
+Tudo isso, com explicações simples e de fácil compreensão.</font></h2>
+	</a>
+	<p><font color="FF0000">Estrutura do Curso</p>
+	<a name="Estrutura do Curso"></font>
+	<ol>
+	<li>Módulo 1 - Introdução
+	<li>Módulo 2 - HTML e a <i>web</i>
+	<li>Módulo 3 - Criando um documento HTML
+	<li>Módulo 4 - Formatando um documento HTML
+	<li>Módulo 5 - Criando listas
+	<li>Módulo 6 - Inserindo imagens
+	<li>Módulo 7 - Criando <i>links</i>
+	<li>Módulo 8 - Combinando tags
+	<li>Módulo 9 - Usando imagens mapeadas
+	</ol>
+	</a>
+	<p><font color="FF0000">Pré-requisitos</p>
+	<a name="Pré-requisitos"></font>
+	<h2><font size="3">Não há pré-requisitos para a realização deste curso.</font></h2>
+	</a>
+
+</body>
+
+</html>
