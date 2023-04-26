@@ -1,0 +1,16 @@
+<html>
+	<head>
+	 <title>EXERC2 - Inserindo efeitos.</title>
+	</head>
+
+<body>
+ <p><font face="Verdana"> <font size="3"> <font color="FF0000">Inserindo efeitos na minha página <i>web</i>.</font> </font> </font></p>
+ <p><b>Nome:</b> Lara Jehnifer Melo da Silva.<br>
+    <b>Nasc.:</b> <u>17/07/2003.</u><br>
+    <b>End.:</b> Confidencial.</p>
+<hr>
+	Cool!
+<hr>
+</body>
+
+</html>
